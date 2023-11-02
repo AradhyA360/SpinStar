@@ -1,0 +1,6 @@
+npm init -y
+npm i prompt-sync
+
+// to run the project
+node project.js 
+
